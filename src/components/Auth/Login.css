@@ -1,0 +1,14 @@
+/* Login.css */
+.mainContainer {
+    margin: 0;
+    padding: 0;
+    background: url('https://wallpapers.com/images/high/green-and-black-background-36oz3z5pdg0a5iq8.webp') no-repeat center center fixed; /* Replace with your own background image */
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .loginContainer {
+    background-color: rgba(0, 0, 0, 0.3); /* Slight transparent overlay for login container */
+  }
+  
